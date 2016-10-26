@@ -213,7 +213,7 @@ ul#nav li.current a { color: #F06000; }
    color: #7A7A7A;
 }
 #about .profile-pic {
-   position:relative;
+   position:absolute;
    width: 220px;s
    height: 800px;
    min-height: 500px;
