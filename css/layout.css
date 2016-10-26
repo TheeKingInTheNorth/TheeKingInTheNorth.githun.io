@@ -212,10 +212,10 @@ ul#nav li.current a { color: #F06000; }
    line-height: 30px;
    color: #7A7A7A;
 }
-#about .profile-pic {
+#about .Alain {
    position: relative;
    width: 500px;
-   height: 200px;
+   height: 800px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
